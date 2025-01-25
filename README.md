@@ -1,2 +1,2 @@
 # ARITHMETIC-LOGICAL-RELATIONAL-OPERATORS
-This program demonstrates the  use of loops,condtional statements,and mathematical operations,making it an excellent example for beginners
+This program gives the overview of arithmetic logical and relational operations which are performed in the program
